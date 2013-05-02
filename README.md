@@ -5,7 +5,7 @@ Pequeña guía a modo de "primer contacto" de DOMDocument de PHP, que permite la m
 
 En la explicación se añaden, eliminan y modifican nodos de un documento HTML.
 
-Más informacón
---------------
+Más información
+---------------
 
 * [Rubén Martín | Recuperar, editar y borrar nodos del DOM con PHP](http://rubenmartin.me/?p=597)
