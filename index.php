@@ -43,7 +43,7 @@ $h2->nodeValue = 'Modificar el texto';
 $p = $h2->nextSibling;
 $p = $p->nextSibling;
 $p->parentNode->insertBefore(
-	new DOMElement( 'small', 'Hemos creado un nuevo nodo' ),
+	new DOMElement( 'h3', 'Hemos creado un nuevo nodo' ),
 	$p
 );
 
